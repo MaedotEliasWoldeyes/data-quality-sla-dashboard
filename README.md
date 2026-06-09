@@ -8,7 +8,6 @@ Interactive Tableau dashboard designed to monitor operational performance, SLA c
 * SQL
 * Data Visualization
 * KPI Reporting
-
 ## Key Features
 
 * SLA compliance tracking
@@ -19,7 +18,9 @@ Interactive Tableau dashboard designed to monitor operational performance, SLA c
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1597" height="817" alt="Screenshot 2026-06-08 052151" src="https://github.com/user-attachments/assets/5702b99a-fab0-4823-b23e-7ff3d082b8df" />
+
+
 
 ## Business Insights
 
